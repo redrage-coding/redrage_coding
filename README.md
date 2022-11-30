@@ -1,7 +1,7 @@
 # redrage_coding
 
-#Helpful for learning tkinter! 
+Helpful for learning tkinter! 
 
-#Includes addition, subtraction, multiplication and division. 
+Includes addition, subtraction, multiplication and division. 
 
-#It is easily customizable 
+It is easily customizable 
